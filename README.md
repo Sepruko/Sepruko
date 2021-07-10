@@ -12,11 +12,15 @@
 - [Languages](#-languages)
   - [Markup Languages](#-markup-languages)
   - [Programming Languages](#-programming-languages)
-  - [Not-so Programming Languages](#-not-so-programming-languages)
+  - [Not-so Programming Languages](#%EF%B8%8F-not-so-programming-languages)
 - [Software](#-software)
   - [IDEs](#-ides)
-  - [Adobe Software](#-adobe-software)
+  - [Adobe Software](#%EF%B8%8F-adobe-software)
   - [Other Software](#-other-software)
+- [Projects](#%EF%B8%8F-projects)
+  - [Completed](#%EF%B8%8F-completed)
+  - [In the Works](#%EF%B8%8F-in-the-works)
+  - [Planned](#-planned)
 
 # 📰 Languages
 This is a list of programming, not-so programming and markup languages I am at least *somewhat* familiar with. If applicable, I will also state what version(s) of the language I use(d).
@@ -69,7 +73,7 @@ Here's a list of projects I've either completed, am currently working on, or pla
 ## ✔️ Completed
 - [SilentTyping](https://github.com/WinstonSepruko/aliucord-plugins/tree/main/SilentTyping), A plugin for [Aliucord](https://github.com/Aliucord/Aliucord)
 
-## 🛠️ In the works
+## 🛠️ In the Works
 - Svelvet Desktop, a FOSS Matrix client made using [Electron](https://github.com/electron/electron), [Matrix JS SDK](https://github.com/matrix-org/matrix-js-sdk), and [SvelteKit](https://github.com/sveltejs/kit).
 - [Acapacia](https://github.com/Winstons-Discord-Stuff/acapacia), a Discord theme.
 - Gophigure, a Discord bot written using Golang and the [arikawa](https://github.com/diamondburned/arikawa) module.
