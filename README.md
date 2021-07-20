@@ -9,15 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinstonSepruko&layout=compact&theme=slateorange">
+  </a>
 </p>
-
 <p align="center">
-  Check out <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> for stat cards just like these!
-<p>
-
-<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange">
+  </a>
 </p>
 
 # 📃 Table of Contents
