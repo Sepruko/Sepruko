@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinstonSepruko&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinstonSepruko&layout=compact&theme=slateorange">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange">
 </p>
 
 # 📃 Table of Contents
