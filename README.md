@@ -8,6 +8,18 @@
   I also love to write code using various languages, some of which you can see below. Psst.. You can also call me Nat.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WinstonSepruko&layout=compact">
+</p>
+
+<p align="center">
+  Check out <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> for stat cards just like these!
+<p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</p>
+
 # 📃 Table of Contents
 - [Languages](#-languages)
   - [Markup Languages](#-markup-languages)
