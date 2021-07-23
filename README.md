@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hiya, I'm winsto!
+  Hiya, I'm Nat!
 </h1>
 <p align="center">
   I'm a silly internet red panda, I still don't know what my gender really is, <code>they/them</code> will do me fine.
   <br>
   <br>
-  I also love to write code using various languages, some of which you can see below. Psst.. You can also call me Nat.
+  I also love to write code using various languages, some of which you can see below.
 </p>
 
 <p align="center">
