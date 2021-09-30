@@ -41,10 +41,12 @@ This is a list of programming, not-so programming and markup languages I am at l
 - HTML5
 - XAML
 - YAML
+- TOML
 
 ## ⚙️ Programming Languages
 - Go >= 16.2
-- Java 8, 11
+- Java 8, 11, 16
+- C# 6.0
 - Javascript 1.7
 - Typescript >=4.1.5
 
@@ -57,9 +59,10 @@ This is a list of programming, not-so programming and markup languages I am at l
 A list of software I am comfortable with operating.
 
 ## 🪲 IDEs
-- Android Studio (Beta)
-- JetBrains' GoLand (Beta)
-- JetBrains' Intellij IDEA (EAP)
+- Android Studio
+- JetBrains' GoLand
+- JetBrains' Rider
+- JetBrains' Intellij IDEA Ultimate
 - Visual Studio Code (Insiders)
 - VSCodium
 
@@ -85,10 +88,7 @@ Here's a list of projects I've either completed, am currently working on, or pla
 - [SilentTyping](https://github.com/WinstonSepruko/aliucord-plugins/tree/main/SilentTyping), A plugin for [Aliucord](https://github.com/Aliucord/Aliucord)
 
 ## 🛠️ In the Works
-- Svelvet Desktop, a FOSS Matrix client made using [Electron](https://github.com/electron/electron), [Matrix JS SDK](https://github.com/matrix-org/matrix-js-sdk), and [SvelteKit](https://github.com/sveltejs/kit).
-- [Acapacia](https://github.com/Winstons-Discord-Stuff/acapacia), a Discord theme.
 - Gophigure, a Discord bot written using Golang and the [arikawa](https://github.com/diamondburned/arikawa) module.
 
 ## 💭 Planned
 - Completely custom firmware for the Nintendo 3DS family of devices, hopefully FOSS
-- Svelvet Android, which would basically be Svelvet Desktop, but using something like [NativeScript](https://github.com/NativeScript/NativeScript) to run Svelte(Kit) on Android
