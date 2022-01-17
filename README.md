@@ -17,15 +17,22 @@ I'm a hobby coder, but maybe one day I'll make it my job. I like all things cute
 
 #### Programming
 
-- Go 1.16.2+
-- Java 8, 11 and 16
-- C# 6.0 (somewhat)
-- ECMAScript (JS) and Typescript (TS)
+[<img alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>]()
+[<img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>]()
+[<img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>]()
+[<img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>]()
+[<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>]()
+[<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>]()
+[<img alt="Groovy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"/>]()
+[<img alt="Zig" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"/>]()
+[<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>]()
 
 #### Markdown/Other
 
-- CSS/Sass
-- HTML/XAML/YAML/TOML/JSON/JSON5
+[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>]()
+[<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>]()
+[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>]()
+[<img alt="Markdown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>]()
 
 #### Spoken/Written
 
@@ -36,7 +43,18 @@ I'm a hobby coder, but maybe one day I'll make it my job. I like all things cute
 
 ### Software & Tools
 
-I currently use Windows as an Operating System for development, I however am versed in UNIX, specifically Linux and a number of distrobutions.
+#### Operating Systems
+
+[<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>]()
+[<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>]()
+
+#### Development Tools
+
+[<img alt="Electron" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>]()
+[<img alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>]()
+[<img alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"/>]()
+[<img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>]()
+[<img alt="Node Package Manager" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>]()
 
 #### Communications Software
 
@@ -46,24 +64,22 @@ I currently use Windows as an Operating System for development, I however am ver
 
 #### Office Software
 
-- Microsoft Office Suite (2016 onwards)
-- **Adobe**
-  - Photoshop (2019 onwards)
-  - Illustrator (2017 onwards)
-  - Premiere Pro (2019 onwards)
-  - Media Encoder (2019 onwards)
-- Figma
-- GitHub, GitLab, BitBucket etc.
-- OneDrive, Google Drive, Dropbox etc.
+[<img alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"/>]()
+[<img alt="Adobe Premiere Pro" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>]()
+[<img alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>]()
+[<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">]()
+[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>]()
+[<img alt="GitLab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>]()
+[<img alt="BitBucket" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>]()
+[<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>]()
 
 #### Integrated Development Environments
 
-- GoLand (Stable, EAP)
-- Visual Studio Code (Stable, Insiders)
-- Visual Studio (2019, 2022)
-- Intelij IDEA Ultimate
-- CLion
-- Android Studio (Stable, Canary)
+
+[<img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"/>]()
+[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>]()
+[<img alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>]()
+[<img alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">]()
 
 ---
 
