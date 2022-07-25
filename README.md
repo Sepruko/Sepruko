@@ -1,91 +1,88 @@
-## Hello, I'm Sepruko! You can call me Nat.
+<img alt="Header Wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12" />
+<h1><img alt="Sepruko's GitHub Profile Picture" height="36px" src="https://avatars.githubusercontent.com/u/33651534?v=4"/> <code>Sepruko</code></h1>
 
-I'm a hobby coder, but maybe one day I'll make it my job. I like all things cute! 🥰
+> I'm Sepruko, but you can call me Nat. If you'd like to get in contact with me, feel free to shoot me an email.
 
-### Things I do with my life...
+I like to program as a hobby, but I'm currently looking for a job doing the same.
 
-- 🍽️ Work in the hospitality industry
-  - I have both my Responsible Serving of Alcohol and Responsible Conduct of Gaming
-- ⛏️ Tinker with existing products
-- ✍️ Write "large" amounts of Go code (there are people out there that write way more than I do, and get paid for it)
-- 💭 Dream about learning Zig ⚡
-- 🖱️⌨️ Play a lot of video games, on PC specifically
+### 📖 Table of Contents
+> <details>
+> <summary>Click to expand.</summary>
+>
+> - [`Sepruko`](0-#sepruko)
+>    - [📖 Table of Contents](#-table-of-contents)
+>    - [🛠️ Work and Life](#️-work-and-life)
+>    - [🧑‍💻 Programming Languages, Tools & Software](#-programming-languages-tools--software)
+>        - [Languages & Markdown](#languages--markdown)
+>        - [Frameworks & Tools](#frameworks--tools)
+>        - [Operating Systems](#operating-systems)
+>        - [Runtimes](#runtimes)
+>        - [Communcation Software](#communication-software)
+>        - [Graphic Software](#graphic-software)
+>        - [Integrated Development Environments](#integrated-development-environments)
+>    - [🗣️ Spoken & Written Languages](#️-spoken--written-languages)
+>    - [📝 Projects](#-projects)
+>        - [Completed](#completed)
+>        - [In Progress](#in-progress)
+> </details>
+
+### 🛠️ Work and Life
+
+- Look for a programming job *sigh*
+
+- Tinker with existing projects, or my own
+
+- Shilling the [Zig](https://ziglang.org/) programming language ⚡
+    > All your codebase are belong to us!
+
+- Play a lot of video games, on PC specifically
 
 ---
  
-### Languages
+### 🧑‍💻 Programming Languages, Tools & Software
 
-#### Programming
+Various programming languages, tools, and software that I enjoy using.
 
-[<img alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>](https://go.dev/)
-[<img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>](https://www.java.com/en/)
-[<img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>](https://kotlinlang.org/)
-[<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
-[<img alt="Groovy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"/>](https://groovy-lang.org/)
-[<img alt="Zig" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"/>](https://ziglang.org/)
-[<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/)
+##### Languages & Markdown
 
-#### Markdown/Other
+<img alt="Web Dev Languages" height="26px" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,md,zig,cs,java,kotlin,go,powershell"/>
 
-[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com/)
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img alt="Markdown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>](https://www.markdownguide.org/)
+##### Frameworks & Tools
 
-#### Spoken/Written
+<img alt="Web Dev Frameworks" height="26px" src="https://skillicons.dev/icons?i=svelte,react,nextjs,astro,electron,dotnet,git,gradle"/>, SolidJS, SvelteKit
+
+#### Operating Systems
+
+<img alt="OS" height="26px" src="https://skillicons.dev/icons?i=linux"/>, Windows
+
+#### Runtimes
+
+<img alt="Runtimes" height="26px" src="https://skillicons.dev/icons?i=nodejs,deno"/>
+
+#### Communication Software
+
+<img alt="Communication Software" height="26px" src="https://skillicons.dev/icons?i=discord,linkedin,github,gitlab"/>, Outlook, Gmail, Matrix
+
+#### Graphic Software
+
+<img alt="Graphic Software" height="26px" src="https://skillicons.dev/icons?i=ai,pr,ps,figma"/>
+
+#### Integrated Development Environments
+
+<img alt="IDEs" height="26px" src="https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vscode"/>
+
+---
+
+### 🗣️ Spoken & Written Languages
 
 - English (UK), fluent & native tongue
 - English (US), fluent
 
 ---
 
-### Software & Tools
+### 📝 Projects
 
-#### Operating Systems
-
-[<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>](https://www.linux.org/)
-[<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>](https://windows.com/)
-
-#### Development Tools
-
-[<img alt="Electron" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>](https://www.electronjs.org/)
-[<img alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>](https://reactjs.org/)
-[<img alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"/>](https://gradle.org/)
-[<img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/)
-[<img alt="Node Package Manager" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/)
-
-#### Communications Software
-
-- Discord (for nearly 6 years)
-- Outlook, GMail
-- Matrix (protocol)
-
-#### Office Software
-
-[<img alt="Adobe Illustrator" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"/>](https://www.adobe.com/au/products/illustrator.html)
-[<img alt="Adobe Premiere Pro" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>](https://www.adobe.com/au/products/premiere.html)
-[<img alt="Adobe Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>](https://www.adobe.com/au/products/photoshop.html)
-[<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">](https://www.figma.com/)
-[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>](https://github.com/)
-[<img alt="GitLab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"/>]()
-[<img alt="BitBucket" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/)
-[<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>](https://about.gitlab.com/)
-
-#### Integrated Development Environments
-
-
-[<img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"/>](https://www.jetbrains.com/)
-[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)
-[<img alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>](https://visualstudio.microsoft.com/)
-[<img alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">](https://developer.android.com/studio)
-
----
-
-### Projects
-
-#### Finished
+#### Completed
 
 - Nothing yet... Maybe try again later?
 
@@ -93,14 +90,4 @@ I'm a hobby coder, but maybe one day I'll make it my job. I like all things cute
 
 - Glyde, a Go module for interacting with both the Discord API and Gateway.
 - Gophigure, a Discord bot providing fast, fun, and easy utilities.
-
-[<img alt="Gophigure Organization" width="36px" src="https://avatars.githubusercontent.com/u/92845692?s=200&v=4"/>](https://github.com/Gophigure)
-
-#### Ideas
-
-- A new alternative, or competitor to [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS)
-  - Don't get me wrong, Luma3DS is awesome and makes using unsigned content, or content from other regions as easy as pie, but it sounds like a lot of fun to write something complex and as low level as that for the 3DS family of consoles.
-
-<br />
-
-> Thanks for taking the time to read my profile. If you'd like to contact me, shoot me an email (the address shown on [my profile](https://github.com/Sepruko)).
+    <br/>[<img alt="Gophigure Organization" width="36px" src="https://avatars.githubusercontent.com/u/92845692?s=200&v=4"/>](https://github.com/Gophigure)
