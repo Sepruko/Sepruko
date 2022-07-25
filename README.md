@@ -1,6 +1,9 @@
 <img alt="Header Wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12" />
 <h1><img alt="Sepruko's GitHub Profile Picture" height="36px" src="https://avatars.githubusercontent.com/u/33651534?v=4"/> <code>Sepruko</code></h1>
 
+[![Discord](https://img.shields.io/discord/915059933400170547?color=5865f2&label=Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/hPmKU7BCRv)
+[![Gophigure](https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github)](https://github.com/Gophigure)
+
 > I'm Sepruko, but you can call me Nat. If you'd like to get in contact with me, feel free to shoot me an email.
 
 I like to program as a hobby, but I'm currently looking for a job doing the same.
@@ -90,4 +93,3 @@ Various programming languages, tools, and software that I enjoy using.
 
 - Glyde, a Go module for interacting with both the Discord API and Gateway.
 - Gophigure, a Discord bot providing fast, fun, and easy utilities.
-    <br/>[<img alt="Gophigure Organization" width="36px" src="https://avatars.githubusercontent.com/u/92845692?s=200&v=4"/>](https://github.com/Gophigure)
