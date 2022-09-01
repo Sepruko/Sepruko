@@ -1,14 +1,27 @@
-<img alt="Header Wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12" />
-<h1><img alt="Sepruko's GitHub Profile Picture" height="36px" src="https://avatars.githubusercontent.com/u/33651534?v=4"/> <code>Sepruko</code></h1>
+<div align="center">
+    <img alt="Header Wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12" />
+    <h1>
+        Sepruko
+    </h1>
+    <a href="https://discord.com/invite/hPmKU7BCRv">
+        <img src="https://img.shields.io/discord/915059933400170547?color=5865f2&label=Discord&logo=discord&style=for-the-badge" alt="discord badge" />
+    </a>
+    <a href="https://github.com/Gophigure">
+        <img src="https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github" alt="gophigure badge" />
+    </a>
+    <a href="https://github.com/Compendious">
+        <img src="https://img.shields.io/badge/-Compendious-9a7fdb?style=for-the-badge&logo=github" alt="compendious badge" />
+    </a>
+    <br/>
+    <br/>
+    <p>
+        <i>I'm Sepruko, but you can call me Nat. If you'd like to get in contact with me, feel free to shoot me an email.</i>
+        <br/>
+        I like to program as a hobby, but I'm currently looking for a job doing the same.
+    </p>
+</div>
 
-[![Discord](https://img.shields.io/discord/915059933400170547?color=5865f2&label=Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/hPmKU7BCRv)
-[![Gophigure](https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github)](https://github.com/Gophigure)
-
-> I'm Sepruko, but you can call me Nat. If you'd like to get in contact with me, feel free to shoot me an email.
-
-I like to program as a hobby, but I'm currently looking for a job doing the same.
-
-### 📖 Table of Contents
+## 📖 Table of Contents
 > <details>
 > <summary>Click to expand.</summary>
 >
@@ -20,76 +33,61 @@ I like to program as a hobby, but I'm currently looking for a job doing the same
 >        - [Frameworks & Tools](#frameworks--tools)
 >        - [Operating Systems](#operating-systems)
 >        - [Runtimes](#runtimes)
->        - [Communcation Software](#communication-software)
+>        - [Communication Software](#communication-software)
 >        - [Graphic Software](#graphic-software)
 >        - [Integrated Development Environments](#integrated-development-environments)
 >    - [🗣️ Spoken & Written Languages](#️-spoken--written-languages)
->    - [📝 Projects](#-projects)
->        - [Completed](#completed)
->        - [In Progress](#in-progress)
 > </details>
 
-### 🛠️ Work and Life
+## 🛠️ Work and Life
 
-- Look for a programming job *sigh*
+- Look for a programming job
+    - Remote only, not comfortable moving to a city
 
 - Tinker with existing projects, or my own
+    - Gophigure, a Discord bot written using the [Go](https://go.dev/) programming language.
+    - Glyde, a [Go module](https://go.dev/doc/modules/managing-dependencies) for interacting with
+      the [Discord API](https://discord.com/developers/docs/intro#bots-and-apps).
+    - Compendious, the modification for any Electron application!
 
-- Shilling the [Zig](https://ziglang.org/) programming language ⚡
-    > All your codebase are belong to us!
+- Got my eyes on the [Zig](https://ziglang.org/) programming language ⚡
+    - Hopefully it'll become something great
 
-- Play a lot of video games, on PC specifically
-
----
+- Sometimes play video-games on my PC
  
-### 🧑‍💻 Programming Languages, Tools & Software
+## 🧑‍💻 Programming Languages, Tools & Software
 
 Various programming languages, tools, and software that I enjoy using.
 
-##### Languages & Markdown
+### Languages & Markdown
 
-<img alt="Web Dev Languages" height="26px" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,md,zig,cs,java,kotlin,go,powershell"/>
+<img alt="Web Dev Languages" height="32px" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,md,zig,cs,java,kotlin,go,powershell"/>
 
-##### Frameworks & Tools
+### Frameworks & Tools
 
-<img alt="Web Dev Frameworks" height="26px" src="https://skillicons.dev/icons?i=svelte,react,nextjs,astro,electron,dotnet,git,gradle"/>, SolidJS, SvelteKit
+<img alt="Web Dev Frameworks" height="32px" src="https://skillicons.dev/icons?i=svelte,react,nextjs,astro,electron,dotnet,git,gradle"/>, SolidJS, SvelteKit
 
-#### Operating Systems
+### Operating Systems
 
-<img alt="OS" height="26px" src="https://skillicons.dev/icons?i=linux"/>, Windows
+<img alt="OS" height="32px" src="https://skillicons.dev/icons?i=linux"/>, Windows
 
-#### Runtimes
+### Runtimes
 
-<img alt="Runtimes" height="26px" src="https://skillicons.dev/icons?i=nodejs,deno"/>
+<img alt="Runtimes" height="32px" src="https://skillicons.dev/icons?i=nodejs,deno"/>
 
-#### Communication Software
+### Communication Software
 
-<img alt="Communication Software" height="26px" src="https://skillicons.dev/icons?i=discord,linkedin,github,gitlab"/>, Outlook, Gmail, Matrix
+<img alt="Communication Software" height="32px" src="https://skillicons.dev/icons?i=discord,linkedin,github,gitlab"/>, Outlook, Gmail, Matrix
 
-#### Graphic Software
+### Graphic Software
 
-<img alt="Graphic Software" height="26px" src="https://skillicons.dev/icons?i=ai,pr,ps,figma"/>
+<img alt="Graphic Software" height="32px" src="https://skillicons.dev/icons?i=ai,pr,ps,figma"/>
 
-#### Integrated Development Environments
+### Integrated Development Environments
 
-<img alt="IDEs" height="26px" src="https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vscode"/>
+<img alt="IDEs" height="32px" src="https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vscode"/>
 
----
-
-### 🗣️ Spoken & Written Languages
+## 🗣️ Spoken & Written Languages
 
 - English (UK), fluent & native tongue
 - English (US), fluent
-
----
-
-### 📝 Projects
-
-#### Completed
-
-- Nothing yet... Maybe try again later?
-
-#### In Progress
-
-- Glyde, a Go module for interacting with both the Discord API and Gateway.
-- Gophigure, a Discord bot providing fast, fun, and easy utilities.
