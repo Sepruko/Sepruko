@@ -3,9 +3,9 @@
     <h1>
         Sepruko
     </h1>
-    <a href="https://discord.com/invite/hPmKU7BCRv">
+    <!-- <a href="https://discord.com/invite/hPmKU7BCRv">
         <img src="https://img.shields.io/discord/915059933400170547?color=5865f2&label=Discord&logo=discord&style=for-the-badge" alt="discord badge" />
-    </a>
+    </a> -->
     <a href="https://github.com/Gophigure">
         <img src="https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github" alt="gophigure badge" />
     </a>
