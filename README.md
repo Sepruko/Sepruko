@@ -3,14 +3,8 @@
     <h1>
         Sepruko
     </h1>
-    <!-- <a href="https://discord.com/invite/hPmKU7BCRv">
-        <img src="https://img.shields.io/discord/915059933400170547?color=5865f2&label=Discord&logo=discord&style=for-the-badge" alt="discord badge" />
-    </a> -->
     <a href="https://github.com/Gophigure">
         <img src="https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github" alt="gophigure badge" />
-    </a>
-    <a href="https://github.com/Compendious">
-        <img src="https://img.shields.io/badge/-Compendious-9a7fdb?style=for-the-badge&logo=github" alt="compendious badge" />
     </a>
     <br/>
     <br/>
@@ -48,7 +42,6 @@
     - Gophigure, a Discord bot written using the [Go](https://go.dev/) programming language.
     - Glyde, a [Go module](https://go.dev/doc/modules/managing-dependencies) for interacting with
       the [Discord API](https://discord.com/developers/docs/intro#bots-and-apps).
-    - Compendious, the modification for any Electron application!
 
 - Sometimes play video-games on my PC
  
