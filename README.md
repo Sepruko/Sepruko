@@ -50,9 +50,6 @@
       the [Discord API](https://discord.com/developers/docs/intro#bots-and-apps).
     - Compendious, the modification for any Electron application!
 
-- Got my eyes on the [Zig](https://ziglang.org/) programming language ⚡
-    - Hopefully it'll become something great
-
 - Sometimes play video-games on my PC
  
 ## 🧑‍💻 Programming Languages, Tools & Software
