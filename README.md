@@ -81,7 +81,7 @@ Language frameworks and tooling I have experience with.
 
 <img
     alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
-    src="https://skillicons.dev/icons?i=gradle,nextjs,deno,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte"
+    src="https://skillicons.dev/icons?i=gradle,nextjs,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte,deno"
 />
 
 ## Software
