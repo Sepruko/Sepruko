@@ -67,12 +67,10 @@ time.
 Programming and markup languages I have experience with, some of which I have been using for upwards
 of 4 years.
 
-<div align="center">
-    <img
-        alt="Markdown, Lua, Powershell, TypeScript, CSS, GO, C#, Kotlin, Sass, HTML, Java, Zig, SVG and JavaScript"
-        src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,js"
-    />
-</div>
+<img
+    alt="Markdown, Lua, Powershell, TypeScript, CSS, GO, C#, Kotlin, Sass, HTML, Java, Zig, SVG and JavaScript"
+    src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,js"
+/>
 
 ## Frameworks & Tooling
 
@@ -81,23 +79,19 @@ Language frameworks and tooling I have experience with.
 > **Note**
 > This list also includes non-standard build tools, and version-control systems.
 
-<div align="center">
-    <img
-        alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
-        src="https://skillicons.dev/icons?i=gradle,nextjs,deno,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte"
-    />
-</div>
+<img
+    alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
+    src="https://skillicons.dev/icons?i=gradle,nextjs,deno,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte"
+/>
 
 ## Software
 
 Communication, graphics and integration development environment software I am experienced with.
 
-<div align="center">
-    <img
-        alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
-        src="https://skillicons.dev/icons?i=github,gitlab,ai,figma,idea,androidstudio,vscode,linkedin,ps,pr,discord,visualstudio"
-    />
-</div>
+<img
+    alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
+    src="https://skillicons.dev/icons?i=github,gitlab,ai,figma,idea,androidstudio,vscode,linkedin,ps,pr,discord,visualstudio"
+/>
 
 [gh-profile]: https://github.com/Sepruko
 [gh-gophigure]: https://github.com/Gophigure
