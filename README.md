@@ -1,83 +1,104 @@
 <div align="center">
-    <img alt="Header Wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12" />
-    <h1>
-        Sepruko
-    </h1>
-    <a href="https://github.com/Gophigure">
-        <img src="https://img.shields.io/badge/-Gophigure-73caf3?style=for-the-badge&logo=github" alt="gophigure badge" />
-    </a>
-    <br/>
-    <br/>
-    <p>
-        <i>I'm Sepruko, but you can call me Nat. If you'd like to get in contact with me, feel free to shoot me an email.</i>
-        <br/>
-        I like to program as a hobby, but I'm currently looking for a job doing the same.
-    </p>
+    <img
+        alt="Header Wave"
+        width="100%"
+        src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12"
+    />
 </div>
 
-## 📖 Table of Contents
-> <details>
-> <summary>Click to expand.</summary>
->
-> - [`Sepruko`](0-#sepruko)
->    - [📖 Table of Contents](#-table-of-contents)
->    - [🛠️ Work and Life](#️-work-and-life)
->    - [🧑‍💻 Programming Languages, Tools & Software](#-programming-languages-tools--software)
->        - [Languages & Markdown](#languages--markdown)
->        - [Frameworks & Tools](#frameworks--tools)
->        - [Operating Systems](#operating-systems)
->        - [Runtimes](#runtimes)
->        - [Communication Software](#communication-software)
->        - [Graphic Software](#graphic-software)
->        - [Integrated Development Environments](#integrated-development-environments)
->    - [🗣️ Spoken & Written Languages](#️-spoken--written-languages)
-> </details>
+# `Sepruko`
 
-## 🛠️ Work and Life
+> A hobby developer, looking to turn everything I've learned through self-directed learning into a
+> job.
 
-- Look for a programming job
-    - Remote only, not comfortable moving to a city
+## Table of Contents
 
-- Tinker with existing projects, or my own
-    - Gophigure, a Discord bot written using the [Go](https://go.dev/) programming language.
-    - Glyde, a [Go module](https://go.dev/doc/modules/managing-dependencies) for interacting with
-      the [Discord API](https://discord.com/developers/docs/intro#bots-and-apps).
+<details>
+    <summary><code>CLICK_TO_SEE_MORE</code></summary>
 
-- Sometimes play video-games on my PC
- 
-## 🧑‍💻 Programming Languages, Tools & Software
+  - [About Me](#about-me)
+  - [Work & Life](#work--life)
+  - [Programming & Markup Languages](#programming--markup-languages)
 
-Various programming languages, tools, and software that I enjoy using.
+</details>
 
-### Languages & Markdown
+## About Me
 
-<img alt="Web Dev Languages" height="32px" src="https://skillicons.dev/icons?i=js,ts,html,css,sass,md,zig,cs,java,kotlin,go,powershell"/>
+I'm Sepruko, but you may call me Nat (this of course, is not my legal name). I love to program,
+whether it be web-development with HTML, CSS & JavaScript, or font-end/back-end with languages like
+Go, Zig and more.
 
-### Frameworks & Tools
+I love to challenge myself by trying to new things, or seeing if I can recreate something awesome on
+my own! With that being said, I'm not afraid to consult the documentation or perform other research tasks to learn more about the technology I'm using.
 
-<img alt="Web Dev Frameworks" height="32px" src="https://skillicons.dev/icons?i=svelte,react,nextjs,astro,electron,dotnet,git,gradle"/>, SolidJS, SvelteKit
+> *"I think that CSS and JavaScript allow for the developer to really think outside the box, do
+> something crazy, and if it doesn't work? Try something else, or simply do what already works."*
 
-### Operating Systems
+Working with memory directly with languages like [Zig][zig-website] has taught me some incredibly important concepts and I've learned so much from this language alone. If it weren't for Zig
+providing a far easier experience in dealing with these concepts, as well as a standard build-system
+and library I would have been very unlikely to experiment with low-level programming for quite some
+time.
 
-<img alt="OS" height="32px" src="https://skillicons.dev/icons?i=linux"/>, Windows
+> **Note**
+> If you'd like to reach out to me regarding hiring opportunities or enquiring about my projects,
+> please shoot an email to the public email on my [GitHub Profile][gh-profile].
 
-### Runtimes
+## Work & Life
 
-<img alt="Runtimes" height="32px" src="https://skillicons.dev/icons?i=nodejs,deno"/>
+- Currently looking for employment in the technology industry.
+  - Australia, **not** willing to move internationally.
+  - Remote-only is preferred, moving domestically would still be a challenge for me both mentally
+    and financially.
+- My day-to-day life consists of...
+  - Participating in the community, such as officiating local leagues for football (soccer).
+  - Working on my own projects, such as [Gophigure][gh-gophigure].
+    - This project includes both a Discord bot, and a framework empowering developers to build applications integrated with the Discord platform.
 
-### Communication Software
+    <br/>
+    <a href="https://github.com/Gophigure">
+        <img src="https://img.shields.io/badge/-Gophigure%20on%20GitHub-73caf3?style=for-the-badge&logo=github" alt="Gophigure Organization" />
+    </a>
 
-<img alt="Communication Software" height="32px" src="https://skillicons.dev/icons?i=discord,linkedin,github,gitlab"/>, Outlook, Gmail, Matrix
+- Playing video-games and consuming video content related to them.
+  - Some of my favorite games are Minecraft, Terraria & Overwatch 2.
 
-### Graphic Software
+## Programming & Markup Languages
 
-<img alt="Graphic Software" height="32px" src="https://skillicons.dev/icons?i=ai,pr,ps,figma"/>
+Programming and markup languages I have experience with, some of which I have been using for upwards
+of 4 years.
 
-### Integrated Development Environments
+<div align="center">
+    <img
+        alt="Markdown, Lua, Powershell, TypeScript, CSS, GO, C#, Kotlin, Sass, HTML, Java, Zig, SVG and JavaScript"
+        src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,js"
+    />
+</div>
 
-<img alt="IDEs" height="32px" src="https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vscode"/>
+## Frameworks & Tooling
 
-## 🗣️ Spoken & Written Languages
+Language frameworks and tooling I have experience with.
 
-- English (UK), fluent & native tongue
-- English (US), fluent
+> **Note**
+> This list also includes non-standard build tools, and version-control systems.
+
+<div align="center">
+    <img
+        alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
+        src="https://skillicons.dev/icons?i=gradle,nextjs,deno,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte"
+    />
+</div>
+
+## Software
+
+Communication, graphics and integration development environment software I am experienced with.
+
+<div align="center">
+    <img
+        alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
+        src="https://skillicons.dev/icons?i=github,gitlab,ai,figma,idea,androidstudio,vscode,linkedin,ps,pr,discord,visualstudio"
+    />
+</div>
+
+[gh-profile]: https://github.com/Sepruko
+[gh-gophigure]: https://github.com/Gophigure
+[zig-website]: https://ziglang.org/
