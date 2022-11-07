@@ -19,6 +19,8 @@
   - [About Me](#about-me)
   - [Work & Life](#work--life)
   - [Programming & Markup Languages](#programming--markup-languages)
+  - [Frameworks & Tooling](#frameworks--tooling)
+  - [Software](#software)
 
 </details>
 
