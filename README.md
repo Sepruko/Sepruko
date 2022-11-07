@@ -80,9 +80,20 @@ Programming and markup languages I have experience with, some of which I have be
 of 4 years.
 
 <img
-    alt="Markdown, Lua, Powershell, TypeScript, CSS, GO, C#, Kotlin, Sass, HTML, Java, Zig, SVG and JavaScript"
-    src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,js"
+    alt="Markdown, Lua, Powershell, TypeScript, CSS, Go, C#, Kotlin, Sass, HTML, Java, Zig, SVG, PUG, and JavaScript"
+    src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,pug,js"
 />
+
+---
+
+- Very confident with languages such as `Go`, `JavaScript`, `(S)CSS`, `HTML` and `Markdown`.
+    > *Yes*, I am aware not all of these are "programming" languages but they are either useful for
+    > write-ups and documentation, or web-development. 
+- I enjoy working with Zig (when it decides to work with me, too), which has taught me a lot about 
+  low-level programming.
+  - I am nothing if not incredibly excited about the recent
+    [`0.10.0`](https://github.com/ziglang/zig/releases/0.10.0) release! 🎉
+- May begin working more with C# once Native AOT (.NET 7) really takes off.
 
 ## Frameworks & Tooling
 
@@ -92,8 +103,8 @@ Language frameworks and tooling I have experience with.
 > This list also includes non-standard build tools, and version-control systems.
 
 <img
-    alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
-    src="https://skillicons.dev/icons?i=gradle,nextjs,nuxt,vue,nodejs,electron,webpack,react,tauri,pug,vite,dotnet,astro,git,svelte,deno"
+    alt="Gradle, NextJS, Deno, Vue, Nuxt, NodeJS, Electron, Webpack, React, Tauri, Vite, .NET, Astro, Git, Svelte"
+    src="https://skillicons.dev/icons?i=gradle,nextjs,deno,vue,nuxt,nodejs,electron,webpack,react,tauri,vite,dotnet,astro,git,svelte"
 />
 
 ## Software
