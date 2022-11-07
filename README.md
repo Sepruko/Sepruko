@@ -47,13 +47,19 @@ time.
 
 ## Work & Life
 
-- Currently looking for employment in the technology industry.
-  - Australia, **not** willing to move internationally.
-  - Remote-only is preferred, moving domestically would still be a challenge for me both mentally
-    and financially.
+- Currently looking for employment in the technology industry...
+  - I am positioned in Australia, and I am **not** willing to move internationally,
+  - and remote-only is preferred, moving domestically would still be a challenge for me financially.
+
 - My day-to-day life consists of...
-  - Participating in the community, such as officiating local leagues for football (soccer).
-  - Working on my own projects, such as [Gophigure][gh-gophigure].
+  - completing a vocational education course for a **Cert IV** in Information Technology,
+    - I will be looking to work towards both a **Diploma**, and then a **Bachelors** in the same
+      area.
+
+  - participating in the community, such as officiating local leagues for football (soccer),
+  - watching and reading programming content, so that I can better my knowledge of both existing and 
+    emerging technologies,
+  - and working on my own projects, such as [Gophigure][gh-gophigure].
     - This project includes both a Discord bot, and a framework empowering developers to build applications integrated with the Discord platform.
 
     <br/>
@@ -61,8 +67,12 @@ time.
         <img src="https://img.shields.io/badge/-Gophigure%20on%20GitHub-73caf3?style=for-the-badge&logo=github" alt="Gophigure Organization" />
     </a>
 
-- Playing video-games and consuming video content related to them.
-  - Some of my favorite games are Minecraft, Terraria & Overwatch 2.
+- Playing video-games and consuming video content related to them...
+  - some of my favorite games to play are Minecraft, Terraria & Overwatch 2,
+  - I also enjoy playing Pokémon, especially "hacked" ROMs that have a lot of awesome and hard work
+    put into them,
+  - and I also have some really cool consoles, such as an `XBOX`, an `XBOX 360 Slim`,
+    a `Nintendo DS Lite`, a `Nintendo 2DS`, a `New Nintendo 3DS XL` and a `Nintendo Switch`. 
 
 ## Programming & Markup Languages
 
