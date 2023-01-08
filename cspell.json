@@ -1,11 +1,19 @@
 {
-    "words": [
-        "Astro",
-        "Deno",
-        "Gophigure",
-        "Minecraft",
-        "Nuxt",
-        "Overwatch",
-        "Tauri"
-    ]
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+	"version": "0.2",
+	"language": "en-GB",
+	"dictionaries": [
+		"en_GB",
+		"softwareTerms",
+		"Sepruko"
+	],
+	"dictionaryDefinitions": [
+		{
+			"name": "Sepruko",
+			"path": "./.cspell/Sepruko.txt",
+			"addWords": true
+		}
+	],
+	"ignoreWords": [],
+	"minWordLength": 3
 }
