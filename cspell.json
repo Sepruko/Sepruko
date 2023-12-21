@@ -1,19 +1,29 @@
 {
 	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
 	"version": "0.2",
-	"language": "en-GB",
+	"name": "seprukoProfile",
+	"language": "en_US",
 	"dictionaries": [
-		"en_GB",
+		"creativeCommons",
+		"filetypes",
+		"node",
+		"npm",
+		"profile",
 		"softwareTerms",
-		"Sepruko"
+		"typescript",
 	],
 	"dictionaryDefinitions": [
 		{
-			"name": "Sepruko",
-			"path": "./.cspell/Sepruko.txt",
+			"name": "profile",
+			"path": "./.cspell/profile.txt",
+			"addWords": true
+		},
+		{
+			"name": "creativeCommons",
+			"path": "./.cspell/cc.txt",
 			"addWords": true
 		}
 	],
-	"ignoreWords": [],
-	"minWordLength": 3
+	"ignorePaths": ["**/node_modules/", "pnpm-lock.yaml"],
+	"minWordLength": 4
 }

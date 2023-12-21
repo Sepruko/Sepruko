@@ -1,88 +1,59 @@
-# `Sepruko`
+# 🐈‍⬛ `Nat`
 
-I'm a hobby developer who loves writing code across many different languages. Typed languages are my
-favourite.
-
-> **Note**
-> I'm currently looking for a software engineering job within Australia. If you'd like to contact me
-> you can do so with the public email available on my [GitHub Profile][sepruko-github].
->
-> Jobs I'm interested in...
->
-> - Web development positions,
-> - and junior software engineering positions.
->
-> ---
->
-> I'd love to be able to further learn and grow my knowledge and problem solving when it comes to
-> software engineering by joining the workforce.
-
-## Table of Contents
-
-- [`Sepruko`](#sepruko)
-	- [Table of Contents](#table-of-contents)
-	- [About Me](#about-me)
-	- [Experience](#experience)
-		- [Programming \& Markup Languages](#programming--markup-languages)
-		- [Frameworks \& Tooling](#frameworks--tooling)
-		- [Software](#software)
+I'm a hobby developer of 6+ years, and I love writing code using a variety of
+programming languages. Strongly-typed languages are my favorite.
 
 ## About Me
 
-Hello there, I'm Sepruko, but my preferred name is Nat. I love to write (good) code, whether it be
-web-development with TypeScript and SCSS, or consuming APIs using a language like Go.
+Hey there, I'm Sepruko! However, I prefer being called Nat. I enjoy writing
+code, and it's something I try to do everyday (even if it's just a little bit).
+I don't really have a favorite area, web-development to low-level, they're all
+enjoyable.
 
-I enjoy challenging myself by trying new things and looking up anything I don't know in order to
-gain an understanding. A good example would be quaternions, of which I knew nothing, but they
-reignited my love for mathematics.
+> Something I enjoyed learning whilst dabbling in 3D software, was quaternions,
+> as well as implementing them using Lua.
 
-> *"Languages like JavaScript (and by extension, TypeScript) are incredibly fun to play with, as you
-> can do almost anything you can think of, almost "abusing" the feature-set of the language and its
-> oddball behaviours."*
-
-[Zig][zig-website] has been an invaluable asset in learning about how memory is stored, as
-well as manual memory management.
+As for my preferred language? It's probably [Zig][zig].
 
 ## Experience
 
-### Programming & Markup Languages
+<h3 align="left">Programming & Markup Languages</h3>
 
-Programming and markup languages, some of which I have upwards of 5 years experience in using. I
-know from an industry standpoint that 5 years isn't much, but I'm only 19 here. 😛
-
-<img
-    alt="Markdown, Lua, Powershell, TypeScript, CSS, Go, C#, Kotlin, Sass, HTML, Java, Zig, SVG, PUG, and JavaScript"
-    src="https://skillicons.dev/icons?i=md,lua,powershell,ts,css,go,cs,kotlin,sass,html,java,zig,svg,pug,js"
-/>
+<p align="left">
+	<img
+		alt="Lua, TypeScript, SASS, C#, Kotlin, Pug, Java, Zig, SVG, Powershell, CSS, Go, JavaScript, and HTML"
+		src="https://skillicons.dev/icons?i=lua,ts,sass,cs,kotlin,pug,java,zig,svg,powershell,css,go,js,html&perline=9"
+	/>
+</p>
 
 ---
 
-- I'm very confident with languages including `Markdown`, `Lua`, `Luau`, `TypeScript`, `CSS`, `Go`,
-  `HTML` and `JavaScript`.
-- I much prefer `Luau` over `Lua 5.1`, `TypeScript` over `JavaScript`, `Kotlin` over `Java` and `Sass` over `CSS`.
-- Excited to get more into `#C` once Native AOT and `.NET 7` get off the ground.
+<h3 align="center">Frameworks & Tooling</h3>
 
-### Frameworks & Tooling
+<p align="center">
+	<img
+		alt="SolidJS, Webpack, React, Electron, NodeJS, Nuxt, Vue, Deno, Tauri, Git, Svelte, Astro, Vite, .NET, Gradle, and Next.JS"
+		src="https://skillicons.dev/icons?i=solidjs,webpack,react,electron,nodejs,nuxt,vue,deno,tauri,git,svelte,astro,vite,dotnet,gradle,nextjs&perline=8"
+	/>
+</p>
 
-Frameworks and tooling to aid in the development of software.
+---
 
-> **Note**
-> This list includes version control systems and build tools not included with a language (e.g.
-> `Gradle`).
+<h3 align="right">Software</h3>
 
-<img
-    alt="Gradle, NextJS, Deno, Vue, Nuxt, NodeJS, Electron, Webpack, React, Tauri, Vite, .NET, Astro, Git, Svelte"
-    src="https://skillicons.dev/icons?i=gradle,nextjs,deno,vue,nuxt,nodejs,electron,webpack,react,tauri,vite,dotnet,astro,git,svelte"
-/>
+<p align="right">
+	<img
+		alt="GitHub, GitLab, Adobe Illustrator, Figma, IntelliJ IDEA, Android Studio, Visual Studio Code, LinkedIn, Adobe Photoshop, Visual Studio, Discord, and Adobe Premiere Pro"
+		src="https://skillicons.dev/icons?i=github,gitlab,ai,figma,idea,androidstudio,vscode,linkedin,ps,blank,blank,blank,blank,blank,blank,visualstudio,discord,pr&perline=9"
+	/>
+</p>
 
-### Software
+---
 
-Communication, graphics and integration development environment software I am experienced with.
+<p align="center">
+	<i>Thanks for reading!</i>
+</p>
 
-<img
-    alt="Gradle, NextJS, Deno, Nuxt, Vue, NodeJS, Electron, Webpack, React, Tauri, Pug, Vite, .NET, Astro, Git, Svelte"
-    src="https://skillicons.dev/icons?i=github,gitlab,ai,figma,idea,androidstudio,vscode,linkedin,ps,pr,discord,visualstudio"
-/>
+<!-- Links -->
 
-[sepruko-github]: https://github.com/Sepruko
-[zig-website]: https://ziglang.org/
+[zig]: https://ziglang.org/

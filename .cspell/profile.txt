@@ -1,0 +1,11 @@
+# Dependencies
+
+biomejs
+
+# Frameworks, Tooling & Software
+
+astro
+intellij
+nuxt
+photoshop
+tauri

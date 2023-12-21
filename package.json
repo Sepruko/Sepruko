@@ -1,0 +1,16 @@
+{
+	"name": "@sepruko/github-profile",
+	"description": "Sepruko's GitHub profile.",
+	"license": "CC-BY-NC-ND-4.0",
+	"author": "Nat Sepruko (https://github.com/Sepruko)",
+	"contributors": [],
+	"devDependencies": {
+		"@biomejs/biome": "1.4.1",
+		"prettier": "~3.1.1"
+	},
+	"engines": {
+		"node": ">=21",
+		"pnpm": ">8.6.12"
+	},
+	"private": true
+}

@@ -1,0 +1,75 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.4.0/schema.json",
+	"files": {
+		"ignoreUnknown": true
+	},
+	"formatter": {
+		"enabled": false
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"a11y": {
+				"noAriaUnsupportedElements": "warn",
+				"noHeaderScope": "warn",
+				"noRedundantAlt": "warn",
+				"noRedundantRoles": "warn",
+				"useKeyWithClickEvents": "off",
+				"useKeyWithMouseEvents": "off",
+				"useMediaCaption": "off"
+			},
+			"complexity": {
+				"noMultipleSpacesInRegularExpressionLiterals": "warn",
+				"noThisInStatic": "off",
+				"noUselessEmptyExport": "warn",
+				"useLiteralKeys": "off"
+			},
+			"correctness": {
+				"noConstantCondition": "off",
+				"noConstructorReturn": "off",
+				"noGlobalObjectCalls": "off",
+				"noInnerDeclarations": "warn",
+				"noNewSymbol": "error",
+				"noPrecisionLoss": "warn",
+				"noSwitchDeclarations": "off",
+				"noUnusedVariables": "warn"
+			},
+			"recommended": true,
+			"style": {
+				"noNegationElse": "error",
+				"noParameterProperties": "error",
+				"useCollapsedElseIf": "error",
+				"useConst": "warn",
+				"useFragmentSyntax": "error",
+				"useShorthandArrayType": "error"
+			},
+			"suspicious": {
+				"noApproximativeNumericConstant": "error",
+				"noArrayIndexKey": "off",
+				"noAssignInExpressions": "off",
+				"noCompareNegZero": "off",
+				"noDoubleEquals": "off",
+				"noEmptyInterface": "warn",
+				"noExplicitAny": "off",
+				"noExtraNonNullAssertion": "warn",
+				"noFallthroughSwitchClause": "off",
+				"noPrototypeBuiltins": "off"
+			}
+		}
+	},
+	"overrides": [
+		{
+			"include": [".vscode/*.json", "turbo.json"],
+			"json": {
+				"parser": {
+					"allowComments": true
+				}
+			}
+		}
+	],
+	"vcs": {
+		"clientKind": "git",
+		"enabled": true,
+		"useIgnoreFile": true
+	}
+}

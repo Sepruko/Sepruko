@@ -1,0 +1,23 @@
+{
+	"$schema": "https://json.schemastore.org/prettierrc",
+	"experimentalTernaries": true,
+	"printWidth": 100,
+	"quoteProps": "consistent",
+	"proseWrap": "always",
+	"overrides": [
+		{
+			"files": [".vscode/*.json"],
+			"options": {
+				"quoteProps": "preserve",
+				"trailingComma": "none",
+				"parser": "json5"
+			}
+		},
+		{
+			"files": ["*.md", "LICENSE"],
+			"options": {
+				"printWidth": 80
+			}
+		}
+	]
+}
